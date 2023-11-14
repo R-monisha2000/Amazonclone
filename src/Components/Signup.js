@@ -201,7 +201,7 @@ function Signup() {
                 >
                   Sign up
                     </button>
-                     <div className="extra-buttons">
+                    
                  
                   <button onClick={GoogleAuth} className="google">
                     
