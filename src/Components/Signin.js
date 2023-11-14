@@ -144,7 +144,7 @@ function Signin() {
                 <button onClick={LogInUser} className="signin-btn">
                   Sign in
                 </button>
-                <div className="extra-buttons">
+                
                   
                   
                    
