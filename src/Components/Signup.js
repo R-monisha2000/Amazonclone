@@ -201,13 +201,7 @@ function Signup() {
                 >
                   Sign up
                 </button>
-               /* <div className="extra-buttons">
-                  <p className="or">&#x2015; Or &#x2015;</p>
-                  <button onClick={GoogleAuth} className="google">
-                    <p>Sign up with</p>
-                    <img src={google} className="google-img" />
-                  </button>
-                </div>*/
+              
               </div>
             </div>
           </div>
