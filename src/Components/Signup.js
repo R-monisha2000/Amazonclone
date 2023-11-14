@@ -205,8 +205,7 @@ function Signup() {
                  
                   
                     
-                  </button>
-                </div>
+                 
               </div>
             </div>
           </div>
