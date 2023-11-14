@@ -200,7 +200,7 @@ function Signup() {
                   className="signin-btn"
                 >
                   Sign up
-                </button>
+                    </button>
               
               </div>
             </div>
