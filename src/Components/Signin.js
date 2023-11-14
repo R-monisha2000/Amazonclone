@@ -146,7 +146,7 @@ function Signin() {
                 </button>
                 <div className="extra-buttons">
                   
-                  <button onClick={GoogleAuth} className="google">
+                  
                    
                   </button>
                 </div>
