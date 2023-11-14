@@ -203,7 +203,7 @@ function Signup() {
                     </button>
                     
                  
-                  <button onClick={GoogleAuth} className="google">
+                  
                     
                   </button>
                 </div>
