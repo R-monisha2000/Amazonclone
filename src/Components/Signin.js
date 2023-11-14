@@ -145,9 +145,9 @@ function Signin() {
                   Sign in
                 </button>
                 <div className="extra-buttons">
-                  <p className="or">&#x2015; Or &#x2015;</p>
+                  <p className="or">&#x2015; &#x2015;</p>
                   <button onClick={GoogleAuth} className="google">
-                    <p>Sign in with</p>
+                    
                     <img src={google} className="google-img" />
                   </button>
                 </div>
